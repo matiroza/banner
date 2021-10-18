@@ -1,4 +1,4 @@
-/*
+
 package uj.pwj2020.introduction;
 
 import org.junit.jupiter.params.ParameterizedTest;
@@ -21,4 +21,4 @@ class QuadraticEquationTest {
         }
     }
 }
-*/
+
