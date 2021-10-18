@@ -19,6 +19,7 @@ class QuadraticEquationTest {
         } else if (expectedSize == 2) {
             assertThat(result).containsOnly(new double[] {expectedR1, expectedR2}, offset(0.001));
         }
+
     }
 }
 

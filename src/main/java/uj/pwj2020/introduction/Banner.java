@@ -73,7 +73,6 @@ public class Banner {
         }
         addSpace(one);
     }
-
     public static List<String> a = new ArrayList<>(List.of(
             "   #   ",
             "  # #  ",

@@ -21,6 +21,5 @@ class ReverserTest {
         String result = new Reverser().reverseWords(input);
         assertEquals(expected, result);
     }
-
 }
 
